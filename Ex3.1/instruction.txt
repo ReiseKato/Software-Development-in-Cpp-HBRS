@@ -1,0 +1,8 @@
+1. Download a suitalbe compiler for C++20.
+2. Write a simple program that prints "Hello World!" on the terminal.
+3. Translate the program naming it hello and execute it.
+
+
+How to translate: g++ -o hello hello.cc
+
+

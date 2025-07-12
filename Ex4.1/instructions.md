@@ -1,0 +1,2 @@
+1. Write a function `myand` (`and` is a reserved keyword) that provides the effect of the Java operator `&` for `bool` values. Do not use any logical operator in your solution.
+2. Implement operator `&&`
