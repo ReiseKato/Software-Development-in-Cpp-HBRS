@@ -12,3 +12,17 @@ Repository which includes all exercises from the course "Software Development in
 - Ex3.3 - Include/Compilation Unit
 
 - Ex4.1 - Replacing boolean & (operation)
+
+- Ex4.2 - Arithmetic operation
+
+- Ex4.3 - call by value/pointer/reference
+
+- Ex4.4 - Rational constructors
+
+- Ex4.5 - Rational operations
+
+- Ex4.6 - order of declarationa and definition
+
+- Ex4.7 - Complex
+
+- Ex4.8 - Bastard Operators from Hell
