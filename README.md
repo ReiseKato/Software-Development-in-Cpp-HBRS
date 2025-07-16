@@ -40,3 +40,7 @@ Repository which includes all exercises from the course "Software Development in
 - Ex5.6 - trace constructor invocations
 
 - Ex5.7 - Vector3D
+
+- Ex5.8 - VectorND
+
+- Ex5.9 - VectorND Makefile
