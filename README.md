@@ -26,3 +26,17 @@ Repository which includes all exercises from the course "Software Development in
 - Ex4.7 - Complex
 
 - Ex4.8 - Bastard Operators from Hell
+
+- Ex5.1 - preprocessor
+
+- Ex5.2 - Vector2D
+
+- Ex5.3 - Vector2D - yet more operators
+
+- Ex5.4 - Vector2D - barycentre
+
+- Ex5.5 - generic Vector2D::Coord
+
+- Ex5.6 - trace constructor invocations
+
+- Ex5.7 - Vector3D
