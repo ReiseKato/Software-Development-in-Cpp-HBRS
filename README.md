@@ -44,3 +44,9 @@ Repository which includes all exercises from the course "Software Development in
 - Ex5.8 - VectorND
 
 - Ex5.9 - VectorND Makefile
+
+- Ex6.1 - builtin sizes
+
+- Ex6.2 - bit editor
+
+- Ex6.3 - norm2
