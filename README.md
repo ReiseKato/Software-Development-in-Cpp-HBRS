@@ -50,3 +50,5 @@ Repository which includes all exercises from the course "Software Development in
 - Ex6.2 - bit editor
 
 - Ex6.3 - norm2
+
+- Ex7.1 - Triangle
