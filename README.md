@@ -53,7 +53,7 @@ Repository which includes all exercises from the course "Software Development in
 
 - Ex7.1 - Triangle
 
-- Ex7.2 - 
+- Ex7.2 - Function pointers
 
 - Ex8.1 - pointer arithmetic
 
