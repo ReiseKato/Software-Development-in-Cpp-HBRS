@@ -52,3 +52,13 @@ Repository which includes all exercises from the course "Software Development in
 - Ex6.3 - norm2
 
 - Ex7.1 - Triangle
+
+- Ex7.2 - 
+
+- Ex8.1 - pointer arithmetic
+
+- Ex8.2 - Virtual Array
+
+- Ex8.3 Patch of Triangle objects
+
+- Ex8.4 - Patch of Triangle objects – using STL
