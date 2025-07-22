@@ -62,3 +62,5 @@ Repository which includes all exercises from the course "Software Development in
 - Ex8.3 Patch of Triangle objects
 
 - Ex8.4 - Patch of Triangle objects – using STL
+
+- Ex9.0 - Create Dynamic Vector
